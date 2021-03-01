@@ -1,1 +1,3 @@
-This is the first code in git
+This is the First code in Git
+
+Hoping for the best!
